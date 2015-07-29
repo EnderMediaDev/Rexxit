@@ -1,4 +1,4 @@
-# Core-Zero
+# Rexxit: Jurassic Pack
 ## Official Issue Tracker
 
 An issue tracker for the [Rexxit: Jurassic Pack](http://www.technicpack.net/modpack/rexxit-jurassic-pack) modpack created by Amaxter and distributed via the Technic Platform.
