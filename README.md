@@ -1,7 +1,7 @@
 # Rexxit: Jurassic Pack
 ## Official Issue Tracker
 
-An issue tracker for the [Rexxit: Jurassic Pack](http://www.technicpack.net/modpack/rexxit-jurassic-pack) modpack created by Amaxter and distributed via the Technic Platform.
+An issue tracker for the [Rexxit: Jurassic Pack](http://www.technicpack.net/modpack/rexxit-jurassic-pack) modpack created by Amaxter, published under EnderMedia, and distributed via the Technic Platform.
 
 ### What do do with Logs/Crash Reports
 If you have a crash report or logs (found in Modpack options in launcher > Open Pack Directory and then crash reports folder or logs folder) then please submit them via a service like pastebin.com so that they don't take up so much space. Any crashes/logs submitted in plain text will be ignored.
